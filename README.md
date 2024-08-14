@@ -12,11 +12,11 @@
 🎓 Estudiante de la Tecnicatura Universitaria en Programacion en la Universidad Tecnologica Nacional.
 
 📝 Habilidades claves:
-  - Programacion Estructurada: *C*.
-  - Programacion Orientada a Objetos: *Java SE*.
-  - Frameworks: En proceso de aprendizaje de *Spring* y *Spring Boot*.
-  - Metodologias Agiles: *Scrum, **Kanban*.
-  - Herramientas: *Git, **Github, **Diagramas UML, **Trello, **Java Swing, **IntelliJ IDEA*.
+  - Programacion Estructurada: **C**.
+  - Programacion Orientada a Objetos: **Java SE**.
+  - Frameworks: En proceso de aprendizaje de **Spring** y **Spring Boot**.
+  - Metodologias Agiles: **Scrum**, **Kanban**.
+  - Herramientas: **Git**, **Github**, **Diagramas UML**, **Trello**, **Java Swing**, **IntelliJ IDEA**.
   - Sistema de Gestión de Base de Datos: *MySQL*
 
 <!--Intro end-->
