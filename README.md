@@ -17,7 +17,7 @@
   - Frameworks: En proceso de aprendizaje de **Spring** y **Spring Boot**.
   - Metodologias Agiles: **Scrum**, **Kanban**.
   - Herramientas: **Git**, **Github**, **Diagramas UML**, **Trello**, **Java Swing**, **IntelliJ IDEA**.
-  - Sistema de Gestión de Base de Datos: *MySQL*
+  - Sistema de Gestión de Base de Datos: **MySQL**
 
 <!--Intro end-->
   </p>
