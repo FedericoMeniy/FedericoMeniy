@@ -10,7 +10,6 @@
   
 > <blockquote style="background: #f9f9f9; border-left: 5px solid #ccc; padding: 1px 20px; text-align: left; display: inline-block;">
 > <p>Estudiante de la <b>Tecnicatura Universitaria en Programación</b> en la <b>Universidad Tecnológica Nacional (UTN)</b>.</p>
-> <p>Apasionado por el desarrollo de software y en constante aprendizaje de nuevas tecnologías.</p>
 > </blockquote>
 
 </div>
@@ -41,8 +40,7 @@
 <ul style="list-style-type: none; padding-left: 0;">
   <li>Java SE (OOP)</li>
   <li>C (Estructurado)</li>
-  <li>Spring / Spring Boot <i>(Aprendiendo)</i></li>
-  <li>Java Swing</li>
+  <li>Spring / Spring Boot</li>
 </ul>
 
 ### 🛢️ Bases de Datos
@@ -57,7 +55,25 @@
   <li><b>Metodologías:</b> Scrum, Kanban</li>
   <li><b>Gestión:</b> Jira, Trello</li>
   <li><b>Control de Versiones:</b> Git, GitHub</li>
-  <li><b>IDEs & Otros:</b> IntelliJ IDEA, VS Code, Diagramas UML</li>
+  <li><b>IDEs:</b> IntelliJ IDEA, VS Code</li>
+</ul>
+
+### 📐 Diseño y Arquitectura
+  
+<ul style="list-style-type: none; padding-left: 0;">
+  <li><b>Principios:</b> SOLID</li>
+  <li><b>Modelado C4:</b> Diagramas C4</li>
+  <li><b>Modelado UML:</b></li>
+  <li style="padding-left: 20px;">- Diagramas de Estado</li>
+  <li style="padding-left: 20px;">- Diagramas de Actividades</li>
+  <li style="padding-left: 20px;">- Diagramas de Colaboración</li>
+</ul>
+
+### 🧪 Pruebas (QA)
+  
+<ul style="list-style-type: none; padding-left: 0;">
+  <li>Pruebas de Caja Blanca</li>
+  <li>Pruebas de Caja Negra</li>
 </ul>
 
 </div>
