@@ -41,8 +41,7 @@
       <ul>
         <li>Java SE (OOP)</li>
         <li>C (Estructurado)</li>
-        <li>Spring / Spring Boot <i>(Aprendiendo)</i></li>
-        <li>Java Swing</li>
+        <li>Spring / Spring Boot</li>
       </ul>
     </td>
   </tr>
