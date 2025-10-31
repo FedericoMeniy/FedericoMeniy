@@ -1,81 +1,71 @@
-<h1 style="text-align: center;">Federico Meniy - Software Developer</h1> 
-<p style="text-align: center;">
+<h1 align="center">Federico Meniy - Software Developer</h1> 
+
+<p align="center">
 <a href="https://www.linkedin.com/in/federico-meniy-2a2056231?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="federicomeniy"/></a>
 <a href = "mailto:federicomeniy@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="federicomeniy"  /></a>
   </p>
+<br>
 
-<div style="text-align: center;">
-  
+<div align="center">
+  
 ## 👨‍🎓 Sobre Mí
-  
-> <blockquote style="background: #f9f9f9; border-left: 5px solid #ccc; padding: 1px 20px; text-align: left; display: inline-block;">
-> <p>Estudiante de la <b>Tecnicatura Universitaria en Programación</b> en la <b>Universidad Tecnológica Nacional (UTN)</b>.</p>
-> </blockquote>
+  
+> Soy estudiante de la **Tecnicatura Universitaria en Programación** en la Universidad Tecnológica Nacional (UTN). <br>
+> Apasionado por el desarrollo de software y en constante aprendizaje.
 
 </div>
+<br>
 
-<h2 style="text-align: center;">🚀 Mi Stack Tecnológico</h2>
+## 🚀 Tecnologías
 
-<p style="text-align: center;">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,angular,java,c,spring,mysql,git,github,jira,trello,idea,vscode&perline=10" />
-  </a>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,angular,java,c,spring,mysql,git,github,jira,trello,idea,vscode&perline=7" />
+  </a>
 </p>
 
----
+<table align="center">
+  <tr>
+    <td align="center" width="33%">
+      <h3>💻 Frontend</h3>
+      <ul>
+        <li>JavaScript</li>
+        <li>Angular</li>
+        <li>HTML5</li>
+        <li>CSS3</li>
+      </ul>
+    </td>
+    <td align="center" width="33%">
+      <h3>⚙️ Backend</h3>
+      <ul>
+        <li>Java SE (OOP)</li>
+        <li>C (Estructurado)</li>
+        <li>Spring / Spring Boot</li>
+      </ul>
+    </td>
+    <td align="center" width="33%">
+      <h3>🛢️ Bases de Datos</h3>
+      <ul>
+        <li>MySQL</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="3">
+      <h3>🛠️ Herramientas y Metodologías</h3>
+      <ul>
+        <li><b>Metodologías:</b> Scrum, Kanban</li>
+        <li><b>Gestión:</b> Jira, Trello</li>
+        <li><b>Control de Versiones:</b> Git, GitHub</li>
+        <li><b>Otros:</b> Diagramas UML, IntelliJ IDEA</li>
+      </ul>
+    </td>
+    <h3> 🧪 Pruebas (QA)
+      <ul>
+        <li>Pruebas de Caja Blanca</li>
+        <li>Pruebas de Caja Negra</li>
+      </ul>
+  </tr>
+</table>
 
-<div style="text-align: center;">
-  
-  <h2 style="text-align: center;">💻 Frontend</h2> 
-  
-<ul style="list-style-type: none; padding-left: 0;">
-  <li>JavaScript</li>
-  <li>Angular</li>
-  <li>HTML5</li>
-  <li>CSS3</li>
-</ul>
-
-  <h2 style="text-align: center;">⚙️ Backend</h2>  
-  
-<ul style="list-style-type: none; padding-left: 0;">
-  <li>Java SE (OOP)</li>
-  <li>C (Estructurado)</li>
-  <li>Spring / Spring Boot</li>
-</ul>
-
- <h2 style="text-align: center;">🛢️ Bases de Datos</h2>
-  
-<ul style="list-style-type: none; padding-left: 0;">
-  <li>MySQL</li>
-</ul>
-
-<h2 style="text-align: center;">🛠️ Herramientas y Metodologías</h2>
-  
-<ul style="list-style-type: none; padding-left: 0;">
-  <li><b>Metodologías:</b> Scrum, Kanban</li>
-  <li><b>Gestión:</b> Jira, Trello</li>
-  <li><b>Control de Versiones:</b> Git, GitHub</li>
-  <li><b>IDEs:</b> IntelliJ IDEA, VS Code</li>
-</ul>
-
-<h2 style="text-align: center;">📐 Diseño y Arquitectura</h2>
-  
-<ul style="list-style-type: none; padding-left: 0;">
-  <li><b>Principios:</b> SOLID</li>
-  <li><b>Modelado C4:</b> Diagramas C4</li>
-  <li><b>Modelado UML:</b></li>
-  <li style="padding-left: 20px;">- Diagramas de Estado</li>
-  <li style="padding-left: 20px;">- Diagramas de Actividades</li>
-  <li style="padding-left: 20px;">- Diagramas de Colaboración</li>
-</ul>
-
-<h2 style="text-align: center;">🧪 Pruebas (QA)</h2>
-  
-<ul style="list-style-type: none; padding-left: 0;">
-  <li>Pruebas de Caja Blanca</li>
-  <li>Pruebas de Caja Negra</li>
-</ul>
-
-</div>
-
----
+<br>
