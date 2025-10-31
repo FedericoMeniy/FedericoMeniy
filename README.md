@@ -1,19 +1,23 @@
-<h1 align="center">Federico Meniy - Software Developer</h1> 
+¡Claro que sí! Vamos a probar un formato más "modular", como si fueran tarjetas de información.
 
-<p align="center"> <a href="https://www.linkedin.com/in/federico-meniy-2a2056231?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="federicomeniy"/></a> <a href = "mailto:federicomeniy@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="federicomeniy"  /></a>   </p>
+Este estilo rompe con las tablas tradicionales y utiliza una estructura de dos columnas que se siente un poco más limpia y moderna. También he añadido un <blockquote> a tu sección "Sobre Mí" para darle más énfasis.
+
+Aquí tienes la vista previa y el código.
+
+Vista Previa de tu Nuevo README
+
+<h1 align="center">Federico Meniy - Software Developer</h1>  <p align="center"> <a href="https://www.linkedin.com/in/federico-meniy-2a2056231?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="federicomeniy"/></a> <a href = "mailto:federicomeniy@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="federicomeniy"  /></a>   </p>
 
 <div align="center">
 
 👨‍🎓 Sobre Mí
 
-    Soy estudiante de la Tecnicatura Universitaria en Programación en la Universidad Tecnológica Nacional (UTN).
-
-    Apasionado por el desarrollo de software y en constante aprendizaje de nuevas tecnologías.
+    <blockquote> <p>Estudiante de la <b>Tecnicatura Universitaria en Programación</b> en la <b>Universidad Tecnológica Nacional (UTN)</b>.</p> <p>Apasionado por el desarrollo de software y en constante aprendizaje de nuevas tecnologías.</p> </blockquote>
 
 </div>
 
-🚀 Mi Stack Tecnológico
+<h2 align="center">🚀 Mi Stack Tecnológico</h2>
 
-<p align="center"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=html,css,js,angular,java,c,spring,mysql,git,github,jira,trello,idea,vscode&perline=7" /> </a> </p>
+<p align="center"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=html,css,js,angular,java,c,spring,mysql,git,github,jira,trello,idea,vscode&perline=10" /> </a> </p>
 
-<table align="center"> <tr> <td align="center" width="33%"> <h3>💻 Frontend</h3> <ul> <li>JavaScript</li> <li>Angular</li> <li>HTML5</li> <li>CSS3</li> </ul> </td> <td align="center" width="33%"> <h3>⚙️ Backend</h3> <ul> <li>Java SE (OOP)</li> <li>C (Estructurado)</li> <li>Spring / Spring Boot <i>(Aprendiendo)</i></li> <li>Java Swing</li> </ul> </td> <td align="center" width="33%"> <h3>🛢️ Bases de Datos</h3> <ul> <li>MySQL</li> </ul> </td> </tr> <tr> <td align="center" colspan="3"> <h3>🛠️ Herramientas y Metodologías</h3> <ul> <li><b>Metodologías:</b> Scrum, Kanban</li> <li><b>Gestión:</b> Jira, Trello</li> <li><b>Control de Versiones:</b> Git, GitHub</li> <li><b>Otros:</b> Diagramas UML, IntelliJ IDEA</li> </ul> </td> </tr> </table>
+<table align="center" width="100%" border="0" cellpadding="10" cellspacing="0"> <tr valign="top"> <td width="50%"> <h3>💻 Frontend</h3> <hr> <ul> <li>JavaScript</li> <li>Angular</li> <li>HTML5</li> <li>CSS3</li> </ul> </td> <td width="50%"> <h3>⚙️ Backend</h3> <hr> <ul> <li>Java SE (OOP)</li> <li>C (Estructurado)</li> <li>Spring / Spring Boot <i>(Aprendiendo)</i></li> <li>Java Swing</li> </ul> </td> </tr> <tr valign="top"> <td width="50%"> <h3>🛢️ Bases de Datos</h3> <hr> <ul> <li>MySQL</li> </ul> </td> <td width="50%"> <h3>🛠️ Herramientas y Metodologías</h3> <hr> <ul> <li><b>Metodologías:</b> Scrum, Kanban</li> <li><b>Gestión:</b> Jira, Trello</li> <li><b>Control de Versiones:</b> Git, GitHub</li> <li><b>Otros:</b> Diagramas UML, IntelliJ IDEA</li> </ul> </td> </tr> </table>
