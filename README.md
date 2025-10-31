@@ -19,49 +19,47 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,angular,java,c,spring,mysql,git,github,jira,trello,idea,vscode, intellij" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,angular,java,c,spring,mysql,git,github,jira,trello,idea,vscode&perline=10" />
   </a>
 </p>
 
-<table align="center" width="100%" border="0" cellpadding="10" cellspacing="0">
-  <tr valign="top">
-    <td width="50%">
-      <h3>💻 Frontend</h3>
-      <hr>
-      <ul>
-        <li>JavaScript</li>
-        <li>Angular</li>
-        <li>HTML5</li>
-        <li>CSS3</li>
-      </ul>
-    </td>
-    <td width="50%">
-      <h3>⚙️ Backend</h3>
-      <hr>
-      <ul>
-        <li>Java SE (OOP)</li>
-        <li>C (Estructurado)</li>
-        <li>Spring / Spring Boot</li>
-      </ul>
-    </td>
-  </tr>
-  <tr valign="top">
-    <td width="50%">
-      <h3>🛢️ Bases de Datos</h3>
-      <hr>
-      <ul>
-        <li>MySQL</li>
-      </ul>
-    </td>
-    <td width="50%">
-      <h3>🛠️ Herramientas y Metodologías</h3>
-      <hr>
-      <ul>
-        <li><b>Metodologías:</b> Scrum, Kanban</li>
-        <li><b>Gestión:</b> Jira, Trello</li>
-        <li><b>Control de Versiones:</b> Git, GitHub</li>
-        <li><b>Otros:</b> Diagramas UML, IntelliJ IDEA</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+---
+
+<div align="center">
+  
+### 💻 Frontend
+  
+<ul>
+  <li>JavaScript</li>
+  <li>Angular</li>
+  <li>HTML5</li>
+  <li>CSS3</li>
+</ul>
+
+### ⚙️ Backend
+  
+<ul>
+  <li>Java SE (OOP)</li>
+  <li>C (Estructurado)</li>
+  <li>Spring / Spring Boot <i>(Aprendiendo)</i></li>
+  <li>Java Swing</li>
+</ul>
+
+### 🛢️ Bases de Datos
+  
+<ul>
+  <li>MySQL</li>
+</ul>
+
+### 🛠️ Herramientas y Metodologías
+  
+<ul>
+  <li><b>Metodologías:</b> Scrum, Kanban</li>
+  <li><b>Gestión:</b> Jira, Trello</li>
+  <li><b>Control de Versiones:</b> Git, GitHub</li>
+  <li><b>IDEs & Otros:</b> IntelliJ IDEA, VS Code, Diagramas UML</li>
+</ul>
+
+</div>
+
+---
