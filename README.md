@@ -25,8 +25,8 @@
 ---
 
 <div style="text-align: center;">
-  
-### 💻 Frontend
+  
+  <h2 style="text-align: center;">💻 Frontend</h2> 
   
 <ul style="list-style-type: none; padding-left: 0;">
   <li>JavaScript</li>
@@ -35,7 +35,7 @@
   <li>CSS3</li>
 </ul>
 
-### ⚙️ Backend
+  <h2 style="text-align: center;">⚙️ Backend</h2>  
   
 <ul style="list-style-type: none; padding-left: 0;">
   <li>Java SE (OOP)</li>
@@ -43,13 +43,13 @@
   <li>Spring / Spring Boot</li>
 </ul>
 
-### 🛢️ Bases de Datos
+ <h2 style="text-align: center;">🛢️ Bases de Datos</h2>
   
 <ul style="list-style-type: none; padding-left: 0;">
   <li>MySQL</li>
 </ul>
 
-### 🛠️ Herramientas y Metodologías
+<h2 style="text-align: center;">🛠️ Herramientas y Metodologías</h2>
   
 <ul style="list-style-type: none; padding-left: 0;">
   <li><b>Metodologías:</b> Scrum, Kanban</li>
@@ -58,7 +58,7 @@
   <li><b>IDEs:</b> IntelliJ IDEA, VS Code</li>
 </ul>
 
-### 📐 Diseño y Arquitectura
+<h2 style="text-align: center;">📐 Diseño y Arquitectura</h2>
   
 <ul style="list-style-type: none; padding-left: 0;">
   <li><b>Principios:</b> SOLID</li>
@@ -69,7 +69,7 @@
   <li style="padding-left: 20px;">- Diagramas de Colaboración</li>
 </ul>
 
-### 🧪 Pruebas (QA)
+<h2 style="text-align: center;">🧪 Pruebas (QA)</h2>
   
 <ul style="list-style-type: none; padding-left: 0;">
   <li>Pruebas de Caja Blanca</li>
