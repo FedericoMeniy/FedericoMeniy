@@ -59,12 +59,13 @@
         <li><b>Control de Versiones:</b> Git, GitHub</li>
         <li><b>Otros:</b> Diagramas UML, IntelliJ IDEA</li>
       </ul>
-    </td>
-    <h3> 🧪 Pruebas (QA)
+       <h3> 🧪 Pruebas (QA)
       <ul>
         <li>Pruebas de Caja Blanca</li>
         <li>Pruebas de Caja Negra</li>
       </ul>
+    </td>
+   
   </tr>
 </table>
 
