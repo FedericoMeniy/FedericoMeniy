@@ -4,10 +4,6 @@
   </a>
 </div>
 
-<div align="center">
-  <h3>🚀 Transformando café en código limpio y eficiente</h3>
-</div>
-
 <p align="center">
   <a href="https://www.linkedin.com/in/federico-meniy-2a2056231" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -92,22 +88,27 @@
 
 ---
 
-### 📊 Estadísticas de GitHub
+### 📊 Mis Estadísticas
 
 <div align="center">
-  <p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=federicomeniy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estadísticas de Federico" />
-  </p>
-  <p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=federicomeniy&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Lenguajes más usados" />
-  </p>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=FedericoMeniy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FedericoMeniy&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+  </a>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FedericoMeniy&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
 
 <div align="center">
-  <p>Visitor count<br>
-  <img src="https://profile-counter.glitch.me/federicomeniy/count.svg" />
-  </p>
-  <br>
+  <p>Visitor count</p>
+  <img src="https://profile-counter.glitch.me/FedericoMeniy/count.svg" alt="Visitor Count" />
+  <br><br>
 </div>
