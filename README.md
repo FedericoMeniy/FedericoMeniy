@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=3399FF&center=true&vCenter=true&width=435&lines=Federico+Meniy;Software+Developer;Estudiante+UTN;Backend+%26+" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=3399FF&center=true&vCenter=true&width=435&lines=Federico+Meniy;Software+Developer;Estudiante+UTN;Backend" alt="Typing SVG" />
   </a>
 </div>
 
@@ -21,8 +21,8 @@
 
 ¡Hola! 👋 Soy **Federico Meniy**, un apasionado desarrollador en formación.
 
-- 🎓 Actualmente cursando la **Tecnicatura Universitaria en Programación** en la **UTN**.
-- 💡 Me especializo en crear soluciones tanto en el **Frontend** como en el **Backend**.
+- 🎓 Recibido de la **Tecnicatura Universitaria en Programación** en la **UTN (Mar del Plata)**.
+- 💡 Me especializo en crear soluciones en el **Backend**.
 - 🌱 Siempre estoy aprendiendo nuevas tecnologías y mejores prácticas de arquitectura de software.
 - 🎯 Mi objetivo actual: Profundizar en **Spring Boot** y arquitecturas de microservicios.
 
