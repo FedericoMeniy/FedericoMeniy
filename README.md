@@ -96,16 +96,6 @@
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FedericoMeniy&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&hide_progress=false" />
+    <img height="380" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FedericoMeniy&theme=tokyonight&hide_border=true&layout=donut-vertical&langs_count=6&hide_progress=false" alt="Stats de Lenguajes" />
   </a>
-  <a href="https://github.com/readme-jokes/readme-jokes">
-    <img height="180" align="center" src="https://readme-jokes.vercel.app/api?theme=tokyonight&hide_border=true" />
-  </a>
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-  <br><br>
 </div>
