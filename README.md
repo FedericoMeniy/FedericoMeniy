@@ -88,27 +88,28 @@
 
 ---
 
-### 📊 Mis Estadísticas
+### 🏆 Mis Hitos en GitHub
 
 <div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=FedericoMeniy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FedericoMeniy&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=FedericoMeniy&theme=git_dark&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" alt="Trofeos" />
   </a>
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FedericoMeniy&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="160" src="https://github-readme-stats.vercel.app/api?username=FedericoMeniy&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&count_private=true" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FedericoMeniy&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&langs_count=6" />
+  </a>
 </div>
 
----
+<br>
 
 <div align="center">
-  <p>Visitor count</p>
-  <img src="https://profile-counter.glitch.me/FedericoMeniy/count.svg" alt="Visitor Count" />
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
   <br><br>
 </div>
