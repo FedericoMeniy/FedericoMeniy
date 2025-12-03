@@ -49,9 +49,6 @@
 <table align="center">
   <tr>
     <td align="center" width="30%">
-      <h3>💻 Frontend</h3>
-    </td>
-    <td align="center" width="30%">
       <h3>⚙️ Backend</h3>
     </td>
     <td align="center" width="30%">
@@ -79,7 +76,7 @@
       <ul>
         <li><b>Gestión:</b> Jira, Trello, Scrum</li>
         <li><b>Versionado:</b> Git & GitHub</li>
-        <li><b>IDE:</b> IntelliJ IDEA, VS Code</li>
+        <li><b>IDE:</b> IntelliJ IDEA, VS Code, etc</li>
         <li><b>QA:</b> Caja Blanca/Negra</li>
       </ul>
     </td>
