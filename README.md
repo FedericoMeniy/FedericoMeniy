@@ -88,23 +88,18 @@
 
 ---
 
-### 🏆 Mis Hitos en GitHub
+---
+
+### 📉 Mi Actividad en Código
 
 <div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=FedericoMeniy&theme=git_dark&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" alt="Trofeos" />
-  </a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FedericoMeniy&theme=tokyo-night&hide_border=true&area=true&color=3399FF" alt="Activity Graph" />
 </div>
 
 <br>
 
 <div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="160" src="https://github-readme-stats.vercel.app/api?username=FedericoMeniy&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&count_private=true" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FedericoMeniy&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&langs_count=6" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FedericoMeniy&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Lenguajes" />
 </div>
 
 <br>
@@ -112,4 +107,5 @@
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
   <br><br>
+  <i>"Code is like humor. When you have to explain it, it’s bad."</i>
 </div>
