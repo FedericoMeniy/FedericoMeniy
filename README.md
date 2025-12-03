@@ -1,72 +1,113 @@
-<h1 align="center">Federico Meniy - Software Developer</h1> 
-
-<p align="center">
-<a href="https://www.linkedin.com/in/federico-meniy-2a2056231?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="federicomeniy"/></a>
-<a href = "mailto:federicomeniy@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="federicomeniy"  /></a>
-  </p>
-<br>
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=3399FF&center=true&vCenter=true&width=435&lines=Federico+Meniy;Software+Developer;Estudiante+UTN;Backend+%26+Frontend" alt="Typing SVG" />
+  </a>
+</div>
 
 <div align="center">
-  
-## 👨‍🎓 Sobre Mí
-  
-> Soy estudiante de la **Tecnicatura Universitaria en Programación** en la Universidad Tecnológica Nacional (UTN). <br>
-> Apasionado por el desarrollo de software y en constante aprendizaje.
-
+  <h3>🚀 Transformando café en código limpio y eficiente</h3>
 </div>
-<br>
-
-## 🚀 Tecnologías
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,angular,java,c,spring,mysql,git,github,jira,trello,idea,vscode&perline=7" />
+  <a href="https://www.linkedin.com/in/federico-meniy-2a2056231" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:federicomeniy@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </p>
 
+---
+
+### 👨‍🎓 Sobre Mí
+
+<img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="180">
+
+¡Hola! 👋 Soy **Federico Meniy**, un apasionado desarrollador en formación.
+
+- 🎓 Actualmente cursando la **Tecnicatura Universitaria en Programación** en la **UTN**.
+- 💡 Me especializo en crear soluciones tanto en el **Frontend** como en el **Backend**.
+- 🌱 Siempre estoy aprendiendo nuevas tecnologías y mejores prácticas de arquitectura de software.
+- 🎯 Mi objetivo actual: Profundizar en **Spring Boot** y arquitecturas de microservicios.
+
+<br clear="right"/>
+
+---
+
+### 🛠️ Stack Tecnológico
+
+<div align="center">
+
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring,c,mysql,html,css,js,angular&perline=8" />
+  </a>
+  <br><br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,idea,vscode,jira,trello,postman,linux&perline=8" />
+  </a>
+
+</div>
+
+<br>
+
 <table align="center">
   <tr>
-    <td align="center" width="33%">
+    <td align="center" width="30%">
       <h3>💻 Frontend</h3>
-      <ul>
-        <li>JavaScript</li>
-        <li>Angular</li>
-        <li>HTML5</li>
-        <li>CSS3</li>
-      </ul>
     </td>
-    <td align="center" width="33%">
+    <td align="center" width="30%">
       <h3>⚙️ Backend</h3>
-      <ul>
-        <li>Java SE (OOP)</li>
-        <li>C (Estructurado)</li>
-        <li>Spring / Spring Boot</li>
-      </ul>
     </td>
-    <td align="center" width="33%">
-      <h3>🛢️ Bases de Datos</h3>
-      <ul>
-        <li>MySQL</li>
-      </ul>
+    <td align="center" width="30%">
+      <h3>🧰 Herramientas & QA</h3>
     </td>
   </tr>
   <tr>
-    <td align="center" colspan="3">
-      <h3>🛠️ Herramientas y Metodologías</h3>
+    <td valign="top">
       <ul>
-        <li><b>Metodologías:</b> Scrum, Kanban</li>
-        <li><b>Gestión:</b> Jira, Trello</li>
-        <li><b>Control de Versiones:</b> Git, GitHub</li>
-        <li><b>Otros:</b> Diagramas UML, IntelliJ IDEA</li>
-      </ul>
-       <h3> 🧪 Pruebas (QA)
-      <ul>
-        <li>Pruebas de Caja Blanca</li>
-        <li>Pruebas de Caja Negra</li>
+        <li><b>Lenguajes:</b> JavaScript (ES6+)</li>
+        <li><b>Frameworks:</b> Angular</li>
+        <li><b>Core:</b> HTML5, CSS3</li>
+        <li><b>Diseño:</b> Responsive Design</li>
       </ul>
     </td>
-   
+    <td valign="top">
+      <ul>
+        <li><b>Lenguajes:</b> Java (OOP), C</li>
+        <li><b>Frameworks:</b> Spring, Spring Boot</li>
+        <li><b>Bases de Datos:</b> MySQL</li>
+        <li><b>API:</b> RESTful Services</li>
+      </ul>
+    </td>
+    <td valign="top">
+      <ul>
+        <li><b>Gestión:</b> Jira, Trello, Scrum</li>
+        <li><b>Versionado:</b> Git & GitHub</li>
+        <li><b>IDE:</b> IntelliJ IDEA, VS Code</li>
+        <li><b>QA:</b> Caja Blanca/Negra</li>
+      </ul>
+    </td>
   </tr>
 </table>
 
-<br>
+---
+
+### 📊 Estadísticas de GitHub
+
+<div align="center">
+  <p>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=federicomeniy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estadísticas de Federico" />
+  </p>
+  <p>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=federicomeniy&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Lenguajes más usados" />
+  </p>
+</div>
+
+---
+
+<div align="center">
+  <p>Visitor count<br>
+  <img src="https://profile-counter.glitch.me/federicomeniy/count.svg" />
+  </p>
+  <br>
+</div>
