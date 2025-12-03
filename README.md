@@ -87,15 +87,10 @@
 </table>
 
 ---
-
----
-
----
-
-### 🧠 Mapa de Conocimientos
+### 📉 Actividad de Commits
 
 <div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FedericoMeniy&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=FedericoMeniy&theme=react&bg_color=0D1117&hide_border=true&area=true" alt="Gráfico de Commits" />
   </a>
 </div>
