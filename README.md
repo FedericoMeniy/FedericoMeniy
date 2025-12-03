@@ -95,7 +95,23 @@
 ### 🧠 Mapa de Conocimientos
 
 <div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="380" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FedericoMeniy&theme=tokyonight&hide_border=true&layout=donut-vertical&langs_count=6&hide_progress=false" alt="Stats de Lenguajes" />
-  </a>
+  
+  <img src="https://img.shields.io/badge/Java-Expert-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-Advanced-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-Intermediate-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  
+  <br>
+
+  <img src="https://img.shields.io/badge/Angular-Intermediate-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-Pro-F05032?style=for-the-badge&logo=git&logoColor=white" />
+
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+  <br><br>
+  <i>"Software and cathedrals are much the same – first we build them, then we pray."</i>
 </div>
